@@ -18,3 +18,7 @@ ingress:
       paths:
         - path: /counter
           pathType: Prefix
+
+serviceAccount:
+  create: true
+  name: ""          

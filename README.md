@@ -100,5 +100,3 @@ Confirmed that the counter value was incrementing as expected.
 - Helm chart is version-controlled in GitHub.
 
 ---
-![Screenshot](screenshots/Argocd UI.png)
-![Argocd UI Screenshot](screenshots/ArgoCD UI.png)

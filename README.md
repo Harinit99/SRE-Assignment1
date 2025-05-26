@@ -101,3 +101,4 @@ Confirmed that the counter value was incrementing as expected.
 
 ---
 ![Screenshot](screenshots/Argocd UI.png)
+![Argocd UI Screenshot](screenshots/ArgoCD UI.png)
